@@ -22,20 +22,19 @@
 <div>
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Coding GIF" />
   
-  <h3>👨‍💻 About Me:</h3>
+  <h3><img src="https://api.iconify.design/fa6-solid:laptop-code.svg?color=%236642f5" width="26" /> About Me:</h3>
   <ul>
-    <li>👤 My name is <b>Shuxratjon</b> and I'm <b>18</b> years old.</li>
-    <li>🌍 I live in <b>Bukhara, Uzbekistan</b>.</li>
-    <li>🤖 I am deeply interested in <b>Artificial Intelligence (AI)</b> and <b>Programming</b>.</li>
-    <li>💼 I actively work on freelance projects and accept custom software development orders.</li>
-    <li>🚀 Always eager to learn new technologies and build innovative solutions.</li>
+    <li><img src="https://api.iconify.design/fa6-solid:user.svg?color=%236642f5" width="16" /> My name is <b>Shuxratjon</b> and I'm <b>18</b> years old.</li>
+    <li><img src="https://api.iconify.design/fa6-solid:globe.svg?color=%236642f5" width="16" /> I live in <b>Bukhara, Uzbekistan</b>.</li>
+    <li><img src="https://api.iconify.design/fa6-solid:robot.svg?color=%236642f5" width="16" /> I am deeply interested in <b>Artificial Intelligence (AI)</b> and <b>Programming</b>.</li>
+    <li><img src="https://api.iconify.design/fa6-solid:briefcase.svg?color=%236642f5" width="16" /> I actively work on freelance projects and accept custom software development orders.</li>
+    <li><img src="https://api.iconify.design/fa6-solid:rocket.svg?color=%236642f5" width="16" /> Always eager to learn new technologies and build innovative solutions.</li>
   </ul>
 </div>
 
 <br/>
 <br/>
 
-<h3 align="center">🛠️ Tech Stack & Tools:</h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,php,python,html,css,github,vscode&theme=dark&perline=8" alt="Skills" />
@@ -44,7 +43,6 @@
 
 <br/>
 
-<h3 align="center">📈 My GitHub Activity:</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuxrat-coder&bg_color=0d1117&color=6642f5&line=6642f5&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
 </div>
