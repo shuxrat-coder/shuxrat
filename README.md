@@ -59,16 +59,6 @@
 
 <br/>
 
-<!-- GitHub Trophies (Yangi dizayn: Radical) -->
-<h3 align="center">🏆 GitHub Trophies:</h3>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shuxrat-coder&theme=radical&no-frame=true&no-bg=false&margin-w=15&row=1&column=6" alt="Trophies" />
-  </a>
-</div>
-
-<br/>
-
 <!-- Profile Views (Profilni ko'rishlar soni) -->
 <div align="center">
   <p><img src="https://komarev.com/ghpvc/?username=shuxrat-coder&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /></p>
