@@ -44,28 +44,9 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shuxrat-coder&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="49%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuxrat-coder&layout=compact&theme=radical" width="49%" />
-</p>
-
-<br clear="all" />
-<br/>
-
+<h3 align="center">📈 My GitHub Activity:</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shuxrat-coder&theme=radical" width="99%" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<h3 align="center">🐍 My Contributions:</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shuxrat-coder/shuxrat-coder/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shuxrat-coder/shuxrat-coder/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shuxrat-coder/shuxrat-coder/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuxrat-coder&bg_color=0d1117&color=ff5e94&line=ff5e94&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
