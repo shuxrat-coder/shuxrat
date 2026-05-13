@@ -3,7 +3,7 @@
   
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Passionate+about+AI+%26+Programming;Freelance+Developer;Based+in+Bukhara,+Uzbekistan" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=ff5e94&center=true&vCenter=true&width=600&lines=Passionate+about+AI+%26+Programming;Freelance+Developer;Based+in+Bukhara,+Uzbekistan" alt="Typing SVG" />
     </a>
   </p>
 
@@ -35,22 +35,42 @@
 <br/>
 <br/>
 
+<h3 align="center">🛠️ Tech Stack & Tools:</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Faqat o'zingiz aytgan texnologiyalar -->
     <img src="https://skillicons.dev/icons?i=js,nodejs,php,python,html,css,github,vscode&theme=dark&perline=8" alt="Skills" />
   </a>
 </div>
 
 <br/>
 
-<br/>
+<!-- Xuddi rasmdagidek yonma-yon statistika -->
+<h3 align="center">📊 GitHub Stats:</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shuxrat-coder&theme=dracula&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shuxrat-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuxrat-coder&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <p><img src="https://komarev.com/ghpvc/?username=shuxrat-coder&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /></p>
+  <img src="https://streak-stats.demolab.com/?user=shuxrat-coder&theme=radical&hide_border=true" width="97%" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- Snake (Ilon) Animatsiyasi -->
+<h3 align="center">🐍 My Contributions:</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shuxrat-coder/shuxrat-coder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shuxrat-coder/shuxrat-coder/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shuxrat-coder/shuxrat-coder/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <p><img src="https://komarev.com/ghpvc/?username=shuxrat-coder&label=Profile%20Views&color=ff5e94&style=flat-square" alt="Profile Views" /></p>
 </div>
