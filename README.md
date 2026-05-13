@@ -25,7 +25,6 @@
   <h3><img src="https://api.iconify.design/fa6-solid:laptop-code.svg?color=%236642f5" width="26" /> About Me:</h3>
   <ul>
     <li><img src="https://api.iconify.design/fa6-solid:user.svg?color=%236642f5" width="16" /> My name is <b>Shuxratjon</b> and I'm <b>18</b> years old.</li>
-    <li><img src="https://api.iconify.design/fa6-solid:globe.svg?color=%236642f5" width="16" /> I live in <b>Bukhara, Uzbekistan</b>.</li>
     <li><img src="https://api.iconify.design/fa6-solid:robot.svg?color=%236642f5" width="16" /> I am deeply interested in <b>Artificial Intelligence (AI)</b> and <b>Programming</b>.</li>
     <li><img src="https://api.iconify.design/fa6-solid:briefcase.svg?color=%236642f5" width="16" /> I actively work on freelance projects and accept custom software development orders.</li>
     <li><img src="https://api.iconify.design/fa6-solid:rocket.svg?color=%236642f5" width="16" /> Always eager to learn new technologies and build innovative solutions.</li>
