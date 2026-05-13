@@ -44,22 +44,21 @@
 
 <br/>
 
-<!-- Xuddi rasmdagidek yonma-yon statistika -->
 <h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shuxrat-coder&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="49%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuxrat-coder&layout=compact&theme=radical" width="49%" />
+</p>
+
+<br clear="all" />
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuxrat-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuxrat-coder&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=shuxrat-coder&theme=radical" width="99%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shuxrat-coder&theme=radical&hide_border=true" width="97%" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<!-- Snake (Ilon) Animatsiyasi -->
 <h3 align="center">🐍 My Contributions:</h3>
 <div align="center">
   <picture>
