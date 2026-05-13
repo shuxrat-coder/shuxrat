@@ -21,7 +21,6 @@
 
 <br/>
 
-<!-- Men haqimda qismi va Rasm -->
 <div>
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Coding GIF" />
   
@@ -32,15 +31,12 @@
     <li>🤖 I am deeply interested in <b>Artificial Intelligence (AI)</b> and <b>Programming</b>.</li>
     <li>💼 I actively work on freelance projects and accept custom software development orders.</li>
     <li>🚀 Always eager to learn new technologies and build innovative solutions.</li>
-    <li>📫 Reach me on Telegram: <b><a href="https://t.me/premium250">@premium250</a></b></li>
   </ul>
 </div>
 
 <br/>
 <br/>
 
-<!-- Texnologiyalar -->
-<h3 align="center">🛠️ Tech Stack & Tools:</h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <!-- Faqat o'zingiz aytgan texnologiyalar -->
@@ -50,8 +46,6 @@
 
 <br/>
 
-<!-- GitHub Statistika (Yangi tartib va yangi dizayn: Dracula) -->
-<h3 align="center">📊 My GitHub Stats:</h3>
 <br/>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=shuxrat-coder&theme=dracula&hide_border=true" width="97%" alt="GitHub Streak" />
@@ -59,7 +53,6 @@
 
 <br/>
 
-<!-- Profile Views (Profilni ko'rishlar soni) -->
 <div align="center">
   <p><img src="https://komarev.com/ghpvc/?username=shuxrat-coder&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /></p>
 </div>
