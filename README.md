@@ -3,7 +3,7 @@
   
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=ff5e94&center=true&vCenter=true&width=600&lines=Passionate+about+AI+%26+Programming;Freelance+Developer;Based+in+Bukhara,+Uzbekistan" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6642f5&center=true&vCenter=true&width=600&lines=Passionate+about+AI+%26+Programming;Freelance+Developer;Based+in+Bukhara,+Uzbekistan" alt="Typing SVG" />
     </a>
   </p>
 
@@ -46,11 +46,11 @@
 
 <h3 align="center">📈 My GitHub Activity:</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuxrat-coder&bg_color=0d1117&color=ff5e94&line=ff5e94&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuxrat-coder&bg_color=0d1117&color=6642f5&line=6642f5&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <p><img src="https://komarev.com/ghpvc/?username=shuxrat-coder&label=Profile%20Views&color=ff5e94&style=flat-square" alt="Profile Views" /></p>
+  <p><img src="https://komarev.com/ghpvc/?username=shuxrat-coder&label=Profile%20Views&color=6642f5&style=flat-square" alt="Profile Views" /></p>
 </div>
