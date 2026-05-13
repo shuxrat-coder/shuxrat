@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Sarlavha qismi va Ism -->
   <h1>Hi there, I'm Shuxratjon! 👋</h1>
   
   <p align="center">
@@ -8,7 +7,6 @@
     </a>
   </p>
 
-  <!-- Ijtimoiy tarmoqlar (Eng ishonchli va chiroyli tugmalar) -->
   <p align="center">
     <a href="https://t.me/premium250" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
