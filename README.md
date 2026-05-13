@@ -17,36 +17,36 @@
 
 ---
 
-<!-- About Me: Table layout for responsive -->
-<table>
-  <tr>
-    <td>
-      <h3><img src="https://api.iconify.design/fa6-solid:laptop-code.svg?color=%236642f5" width="26" /> About Me:</h3>
-      <ul>
-        <li><img src="https://api.iconify.design/fa6-solid:user.svg?color=%236642f5" width="16" /> My name is <b>Shuxratjon</b> and I'm <b>18</b> years old.</li>
-        <li><img src="https://api.iconify.design/fa6-solid:robot.svg?color=%236642f5" width="16" /> I am deeply interested in <b>Artificial Intelligence (AI)</b> and <b>Programming</b>.</li>
-        <li><img src="https://api.iconify.design/fa6-solid:briefcase.svg?color=%236642f5" width="16" /> I actively work on freelance projects and accept custom software development orders.</li>
-        <li><img src="https://api.iconify.design/fa6-solid:rocket.svg?color=%236642f5" width="16" /> Always eager to learn new technologies and build innovative solutions.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Coding GIF" style="max-width:100%; height:auto;" />
-    </td>
-  </tr>
-</table>
+### About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Coding GIF" style="max-width:100%; height:auto; margin-bottom:10px;" />
+</p>
+
+- <img src="https://api.iconify.design/fa6-solid:user.svg?color=6642f5" width="16" /> My name is **Shuxratjon** and I'm **18** years old.
+- <img src="https://api.iconify.design/fa6-solid:robot.svg?color=6642f5" width="16" /> I am deeply interested in **Artificial Intelligence (AI)** and **Programming**.
+- <img src="https://api.iconify.design/fa6-solid:briefcase.svg?color=6642f5" width="16" /> I actively work on freelance projects and accept custom software development orders.
+- <img src="https://api.iconify.design/fa6-solid:rocket.svg?color=6642f5" width="16" /> Always eager to learn new technologies and build innovative solutions.
 
 ---
 
+### Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,php,python,html,css,github,vscode&theme=dark&perline=8" alt="Skills" style="max-width:100%; height:auto;" />
   </a>
 </p>
 
+---
+
+### GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuxrat-coder&bg_color=0d1117&color=6642f5&line=6642f5&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" style="max-width:100%; height:auto;" alt="Activity Graph" />
 </p>
 
+---
+
+### Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shuxrat-coder&label=Profile%20Views&color=6642f5&style=flat-square" alt="Profile Views" />
 </p>
