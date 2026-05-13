@@ -52,10 +52,6 @@
 
 <!-- GitHub Statistika (Yangi tartib va yangi dizayn: Dracula) -->
 <h3 align="center">📊 My GitHub Stats:</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuxrat-coder&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuxrat-coder&layout=compact&theme=dracula&hide_border=true" width="48%" alt="Top Languages" />
-</div>
 <br/>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=shuxrat-coder&theme=dracula&hide_border=true" width="97%" alt="GitHub Streak" />
