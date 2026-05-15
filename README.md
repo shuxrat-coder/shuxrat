@@ -50,4 +50,4 @@
 
 <div align="center">
   <p><img src="https://komarev.com/ghpvc/?username=shuxrat-coder&label=Profile%20Views&color=6642f5&style=flat-square" alt="Profile Views" /></p>
-</div>   shu dizayn holatini va tartibni buzmasdan qil
+</div>
